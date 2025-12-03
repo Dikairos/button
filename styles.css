@@ -1,0 +1,29 @@
+a{color: rgb(0,113,133);
+margin-bottom:50px; }
+
+.t{font-size: 40px;
+font-weight: bold;}
+
+.pr{font-size: 19px;
+font-weight:bold;
+color:rgb(0,118,0);}
+
+.act{font-size: 19px;
+font-weight: bolder;}
+
+.cart{background-color: rgb(255, 216, 20);
+border: none;
+border-radius:18px;
+height: 36px;
+width: 130px;
+font-size: 15px;
+font-weight: bolder;
+margin-right: 10px;}
+.buy{background-color: rgb(255, 164, 28);
+border: none;
+border-radius:18px;
+height: 36px;
+width: 130px;
+font-size: 15px;
+font-weight: bolder;
+margin-right: 20px;}
